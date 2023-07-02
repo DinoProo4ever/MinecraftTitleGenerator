@@ -1,5 +1,13 @@
 {
   "textures": {
+    "pridelands": {
+      "author": "DinoProo4ever",
+      "variants": {
+        "pridelands": {
+          "name": "Pridelands"
+        }
+      }
+    },
     "cracked": {
       "author": "ShrimpSnail, Ewan Howell, & MrBrose",
       "variants": {
